@@ -13,6 +13,7 @@ I’m a Computer Science student passionate about AI, web dev, UI design and sol
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![Jeslia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JesliaRose&show_icons=true&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-JesliaRose&theme=react-dark)
 
 - 🌱 Learning something new every day...
 - 💻 I love crafting web experiences that feel like warm, cozy corners of the internet.
