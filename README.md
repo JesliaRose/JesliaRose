@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Jeslia Rose!
 I’m a Computer Science student passionate about AI, web dev, UI design and solving real-world problems.
 
+<p align="center">
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -11,6 +12,7 @@ I’m a Computer Science student passionate about AI, web dev, UI design and sol
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</p>
 
 ![Jeslia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JesliaRose&show_icons=true&theme=radical)
 
@@ -18,7 +20,7 @@ I’m a Computer Science student passionate about AI, web dev, UI design and sol
 - 💻 I love crafting web experiences that feel like warm, cozy corners of the internet.
 - 🧠 I'm constantly exploring how AI can enhance everyday tools.
 - 🌐 I like building full-stack projects that mix tech and creativity in unexpected ways.
-- 🎨 I love thoughtful, user-centered UI design. Whether it's spacing, typography, or the tiniest interaction — I care about how it looks and how it feels.
+- 🎨 I love thoughtful, user-centered UI design. Whether it's spacing, typography, or the tiniest interaction - I care about how it looks and how it feels.
 - 🐈 Cats are my favorite coding companions. Silent, judgmental, and cute.
 - 🐾 I believe that productivity increases by 200% when there's a cat sleeping nearby.
 
