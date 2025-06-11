@@ -10,7 +10,7 @@ I’m a Computer Science student passionate about AI, web dev, UI design and sol
 ![GitHub Streak](https://streak-stats.demolab.com?user=jesliarose&theme=radical)
 
 🌱 Learning something new every day...
-💻 I love crafting web experiences that feel like warm, cozy corners of the internet.
+💻 I love crafting web experiences that feel like warm, cozy corners of the internet.\n
 🧠 I'm constantly exploring how AI can enhance everyday tools.
 🌐 I like building full-stack projects that mix tech and creativity in unexpected ways.
 🎨 I love thoughtful, user-centered UI design. Whether it's spacing, typography, or the tiniest interaction — I care about how it looks and how it feels.
